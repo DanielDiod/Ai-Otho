@@ -41,7 +41,7 @@ const PORT = process.env.PORT || process.env.SERVER_PORT || 3000
 //let require = createRequire(megu)
 let { say } = cfonts
 
-console.log(chalk.bold.redBright(`\n✰ Iniciando Kirito-Bot-MD ✰\n`))
+console.log(chalk.bold.redBright(`\n✰ Iniciando todo correctamente...\n`))
 
 say('Ai-Otho', {
 font: 'block',
